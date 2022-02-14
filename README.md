@@ -16,5 +16,6 @@ Algumas funções que desejo por nessa rede social.
 - Sistema de filtragem de publicação somente se for do interesse do usuario
 - Sistema de seguidores
 - Sistema de censura de conteudo indesejado usando IA
+- Integração de login com metamask
 
 Desde de já agradeço pela sua visualização no repo. :D
